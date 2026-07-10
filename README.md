@@ -1,9 +1,9 @@
 # nextlifesoftware
-Welcome to my digital space
+SugiSuresh's here
 
 <div align="center">
 
-<img src="assets/banner.svg" width="100%"/>
+<img src="assets/banner.svg" width="100%">
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3000&pause=1200&color=8BB8C9&center=true&vCenter=true&width=600&lines=Building+at+the+intersection+of+hardware+%26+software;AI+%2F+IoT+%2F+Full+Stack+%2F+UI-UX" alt="Typing SVG" />
 
