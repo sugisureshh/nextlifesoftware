@@ -1,0 +1,37 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="50%" stop-color="#203a43"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8BB8C9"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="260" fill="url(#bg)"/>
+
+  <!-- subtle circuit-style accent lines -->
+  <g stroke="#3d6b7d" stroke-width="1.5" opacity="0.35" fill="none">
+    <path d="M0,40 H180 L210,70 H420"/>
+    <path d="M0,220 H140 L170,190 H360"/>
+    <path d="M1200,60 H1020 L990,30 H830"/>
+    <path d="M1200,200 H1050 L1020,230 H860"/>
+    <circle cx="420" cy="70" r="4" fill="#8BB8C9"/>
+    <circle cx="830" cy="30" r="4" fill="#8BB8C9"/>
+    <circle cx="360" cy="190" r="4" fill="#8BB8C9"/>
+    <circle cx="860" cy="230" r="4" fill="#8BB8C9"/>
+  </g>
+
+  <text x="600" y="128" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#ffffff" letter-spacing="1.5">
+    SUGENESWAARY SURESH
+  </text>
+
+  <text x="600" y="168" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="400" fill="#a9c9d4" letter-spacing="0.5">
+    Electronic Computer Engineer  |  AI &amp; IoT Specialist  |  Full Stack Developer
+  </text>
+
+  <rect x="500" y="192" width="200" height="3" rx="1.5" fill="url(#accent)"/>
+</svg>
